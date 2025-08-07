@@ -1,7 +1,8 @@
 import socket
 import time
 import keyboard  # Ensure the keyboard library is installed
-#one plus
+
+#madara
 CLOUD_IP = "4.240.96.209"  # Your cloud server's public IP
 COMMAND_PORT = 5000
 
