@@ -1,7 +1,7 @@
 import socket
 import time
 import keyboard  # Ensure the keyboard library is installed
-#master check
+
 CLOUD_IP = "4.240.96.209"  # Your cloud server's public IP
 COMMAND_PORT = 5000
 
@@ -49,4 +49,4 @@ def run_user():
 
 if __name__ == "__main__":
     run_user()
-#code ends ok
+#code ends no
